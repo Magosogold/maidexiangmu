@@ -51,8 +51,6 @@ public class ZhaobiaodanweiController {
     @Autowired
     private ZhaobiaodanweiService zhaobiaodanweiService;
 
-
-    
 	@Autowired
 	private TokenService tokenService;
 	
